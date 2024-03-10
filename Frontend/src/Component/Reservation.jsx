@@ -24,7 +24,7 @@ const Reservation = () => {
 
         try {
             const { data } = await axios.post(
-                'https://spicesavor-web.onrender.com/reservation',
+                'https://spicesavor-mern-web.onrender.com/reservation',
                 {
                     firstName: firstName.trim(),
                     lastName: lastName.trim(),

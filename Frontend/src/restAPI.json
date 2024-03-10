@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "ourQualities": [
+                {
+                    "id": 1,
+                    "image": "./quality_food.svg",
+                    "title": "AUTHENTIC INDIAN CUISINE",
+                    "description": "Experience the rich flavors of traditional Indian dishes crafted with authentic spices and ingredients."
+                },
+                {
+                    "id": 2,
+                    "image": "./super_taste.svg",
+                    "title": "FLAVORFUL DELIGHTS",
+                    "description": "Indulge in a symphony of tastes with our diverse range of dishes that promise an explosion of flavors in every bite."
+                },
+                {
+                    "id": 3,
+                    "image": "./fast_delivery.svg",
+                    "title": "PROMPT SERVICE",
+                    "description": "We prioritize your satisfaction and ensure swift delivery of your favorite Indian delicacies to your doorstep."
+                }
+            ],
+            "dishes": [
+                {
+                    "id": 1,
+                    "image": "./dinner1.jpeg",
+                    "title": "TANDOORI CHICKEN",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 2,
+                    "image": "./dinner2.png",
+                    "title": "PANEER TIKKA",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 3,
+                    "image": "./breakfast1.png",
+                    "title": "MASALA DOSA",
+                    "category": "Breakfast"
+                },
+                {
+                    "id": 4,
+                    "image": "./dinner3.png",
+                    "title": "BUTTER CHICKEN",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 5,
+                    "image": "./lunch1.png",
+                    "title": "VEGETABLE BIRYANI",
+                    "category": "Lunch"
+                },
+                {
+                    "id": 6,
+                    "image": "./dinner4.png",
+                    "title": "PALAK PANEER",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 7,
+                    "image": "./dinner5.png",
+                    "title": "CHOLE BHATURE",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 8,
+                    "image": "./dinner6.png",
+                    "title": "RAJMA CHAWAL",
+                    "category": "Dinner"
+                }
+            ],
+            "team": [
+                {
+                    "id": 1,
+                    "image": "./team_member_1.png",
+                    "name": "RAJESH SINGH",
+                    "designation": "Head Chef & Founder"
+                },
+                {
+                    "id": 2,
+                    "image": "./team_member_2.png",
+                    "name": "PRIYA SHARMA",
+                    "designation": "Sous Chef"
+                },
+                {
+                    "id": 3,
+                    "image": "./team_member_3.png",
+                    "name": "RAMESH KUMAR",
+                    "designation": "Tandoori Chef"
+                },
+                {
+                    "id": 4,
+                    "image": "./team_member_4.png",
+                    "name": "MEERA DEVI",
+                    "designation": "Senior Chef"
+                }
+            ],
+            "testimonials": [
+                {
+                    "id": 1,
+                    "image": "./review1.png",
+                    "description": "The flavors were authentic, and the service was exceptional. I highly recommend their dishes to anyone looking for a true taste of India.",
+                    "rating": 4.5,
+                    "userName": "Amit Patel"
+                },
+                {
+                    "id": 2,
+                    "image": "./review2.png",
+                    "description": "I was blown away by the deliciousness of every dish I tried. Their attention to detail and commitment to quality shine through in every bite.",
+                    "rating": 5,
+                    "userName": "Neha Gupta"
+                },
+                {
+                    "id": 3,
+                    "image": "./review3.png",
+                    "description": "Absolutely phenomenal food! The flavors were spot-on, and the portions were generous. Can't wait to dine here again.",
+                    "rating": 4.8,
+                    "userName": "Vikram Singh"
+                }
+            ],
+            "who_we_are": [
+                {
+                    "id": 1,
+                    "number": "10",
+                    "title": "Years of Experience"
+                },
+                {
+                    "id": 2,
+                    "number": "5",
+                    "title": "Master Chefs"
+                },
+                {
+                    "id": 3,
+                    "number": "500",
+                    "title": "Happy Customers"
+                },
+                {
+                    "id": 4,
+                    "number": "100",
+                    "title": "Signature Dishes"
+                }
+            ],
+            "navbarLinks": [
+                {
+                    "id": 1,
+                    "title": "HOME",
+                    "link": "heroSection"
+                },
+                {
+                    "id": 2,
+                    "title": "ABOUT US",
+                    "link": "about"
+                },
+                {
+                    "id": 3,
+                    "title": "SERVICES",
+                    "link": "qualities"
+                },
+                {
+                    "id": 4,
+                    "title": "TEAM",
+                    "link": "team"
+                },
+                {
+                    "id": 5,
+                    "title": "RESERVATION",
+                    "link": "reservation"
+                }
+            ]
+        }
+    ]
+}

@@ -5,7 +5,7 @@ require('dotenv').config();
 // Use for frontend connect
 const cors = require('cors');
 const corsOptions = {
-    origin: 'http://localhost:5173',
+    origin: 'https://spice-savor-mern-web.vercel.app/',
     credentials: true 
 };
 app.use(cors(corsOptions));
